@@ -37,7 +37,8 @@ body::before {
       rgba(58, 58, 158, 0.8),
       rgba(136, 136, 206, 0.7)
     ),
-    url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+    url(https://cdn2.vectorstock.com/i/1000x1000/48/01/colorful-polygonal-background-abstract-form-vector-23254801.jpg);
+    /* url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg); */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
